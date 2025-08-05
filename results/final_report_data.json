@@ -1,0 +1,230 @@
+{
+  "target": "http://www.dvwa.co.uk/",
+  "scored": [
+    {
+      "url": "/span",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "https://www.dvwa.co.uk/",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/images",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/wp-emoji-release.min.js",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/svg",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/72x72",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/bm-black-friday-deal.css",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/wp-admin/",
+      "risk": "High",
+      "reason": "Contains high-risk keyword 'admin'"
+    },
+    {
+      "url": "/brand-management-plugin",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "https://www.dvwa.co.uk/about-us/",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/core",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "https://www.dvwa.co.uk/en-gb/",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/bm-partner-label.css",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/16.0.1",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/emoji",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "https://www.dvwa.co.uk/files/js/jquery-1.6.2.min.js",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/search/",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/s.w.org",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "https://www.dvwa.co.uk/contact/",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/cdn-cgi/l/email-protection#9dfef2f3e9fcfee9ddf9ebeafcb3fef2b3e8f6",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "https://www.dvwa.co.uk/page-sitemap.xml",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+      "risk": "Medium",
+      "reason": "Contains medium-risk keyword 'api'"
+    },
+    {
+      "url": "/i",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/*?s=",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/public",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/fa0jn434hfseid03pftr1315517",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/www.dvwa.co.uk",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/visit/",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/admin-ajax.php",
+      "risk": "High",
+      "reason": "Contains high-risk keyword 'admin'"
+    },
+    {
+      "url": "/js",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/wp-",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "https://www.dvwa.co.uk/files/js/jquery.nivo.slider.pack.js",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/wp-admin",
+      "risk": "High",
+      "reason": "Contains high-risk keyword 'admin'"
+    },
+    {
+      "url": "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/login/",
+      "risk": "High",
+      "reason": "Contains high-risk keyword 'login'"
+    },
+    {
+      "url": "https://www.dvwa.co.uk/contact-2/",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "https://www.dvwa.co.uk/category-sitemap.xml",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/css",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/uploads",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/wp-content",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/plugins",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/javascript",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/themes",
+      "risk": "Low",
+      "reason": "Generic resource"
+    },
+    {
+      "url": "/wp-includes",
+      "risk": "Low",
+      "reason": "Generic resource"
+    }
+  ]
+}
